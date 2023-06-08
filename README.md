@@ -1,2 +1,2 @@
-# mobile2
+# mobile02
 Estudo de JavaScript para Mobile.
